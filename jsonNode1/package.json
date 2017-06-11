@@ -1,0 +1,19 @@
+{
+  "name": "jsonnode",
+  "version": "1.0.0",
+  "main": "parsejson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "current-time": "^1.0.1",
+    "express": "^4.15.3",
+    "jsonfile": "^3.0.0",
+    "node-geocoder": "^3.16.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
